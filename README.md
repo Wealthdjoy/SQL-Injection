@@ -19,7 +19,6 @@ Ethics & Scope: This project documents testing performed only against an intenti
 4.	Evidence → save key HTTP requests/responses and sanitized DB dumps.
 5.	Reporting
 ## Repo Structure
-.
 ├─ README.md
 ├─ report/
 │ ├─ SQLi_Project_Report.pdf # exported report (or .md)
